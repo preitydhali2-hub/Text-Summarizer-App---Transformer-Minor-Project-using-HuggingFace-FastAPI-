@@ -1,4 +1,5 @@
 Text Summarizer API (using Hugging Face & FastAPI)
+
 🚀 Overview:
 This project is a Text Summarization API built using Hugging Face Transformers and FastAPI. It allows users to input long text and receive a concise, meaningful summary using state-of-the-art NLP models.
 The API is lightweight, fast, and easy to integrate into applications such as content platforms, research tools, and automation systems.
