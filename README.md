@@ -33,4 +33,4 @@ Deploy using Docker & cloud (AWS/GCP)
 Add frontend UI
 Improve response time with model optimization.
 
-👩‍💻 Author Preity Dhali B.Tech CSE (AIML) GitHub: 
+👩‍💻 Author Preity Dhali B.Tech CSE (AIML) GitHub: https://github.com/preitydhali2-hub/Text-Summarizer-App---Transformer-Minor-Project-using-HuggingFace-FastAPI-.git
